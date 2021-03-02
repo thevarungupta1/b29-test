@@ -1,3 +1,4 @@
 This is a file
 It does nothing except be a file
 But it does do that
+You can add new lines, but sometimes those lines conflict when merging
