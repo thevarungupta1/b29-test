@@ -3,3 +3,4 @@ It does nothing except be a file
 But it does do that
 It can also add new lines
 But sometimes those lines conflict when merging
+Now I will add again
